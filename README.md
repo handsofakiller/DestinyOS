@@ -1,4 +1,4 @@
 DestinyOS
 =========
 
-Builds of DestinyOS, a Linux distro based on openSUSE
+Builds of DestinyOS, a Linux distro built in SUSE Studio
